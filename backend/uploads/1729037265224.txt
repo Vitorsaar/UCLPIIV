@@ -1,0 +1,5 @@
+04 Pilhas:Aa 4300 Mah 12 Hs.
+Aa 3600 Mah 8 Hs. 
+Aaa 2100 Mah 6 Hs. 
+Aaa 1700 Mah 4 Hs. 
+Aaa 900 Mah 3 Hs.
